@@ -1,3 +1,5 @@
+//Traverse the array nums and give condition to target
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
         for(int i=0;i<nums.length;i++)
